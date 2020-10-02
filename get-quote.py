@@ -5,7 +5,7 @@ def main():
   quotes = f.readlines()
   f.close()
 
-  print(quotes)
+  print("Keep it logically awesome")
 
 if __name__== "__main__":
   main()
